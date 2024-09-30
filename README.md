@@ -1,2 +1,1 @@
-# hockey
-Desafío integrador EGG
+# Migthy Ducks Hockey League
